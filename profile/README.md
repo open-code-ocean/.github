@@ -1,4 +1,7 @@
-## Hi there 👋
+# open-code-ocean
+---
+
+## Open Code Ocean is the Open Source Organization in which we are building real world projects with the help of Open Source.
 
 <!--
 
