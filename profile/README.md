@@ -1,4 +1,9 @@
-## Hi there 👋
+# open-code-ocean
+---
+
+## Open Code Ocean is the Open Source Organization in which we are building real world projects with the help of Open Source.
+
+![openCodeOcean](https://github.com/Omkar0114/Linux-Learning-journey/blob/main/open%20code%20ocean.png)
 
 <!--
 
